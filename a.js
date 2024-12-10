@@ -6,6 +6,7 @@
 // git branch -M main
 // git push -u origin main
 
+// git branch -m sherin
 // git checkout -b branch sherin
 
 // REVERT (undo ketika ada yang salah) 
